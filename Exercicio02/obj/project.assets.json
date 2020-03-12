@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jony\\source\\repos\\CSharp\\Course\\Course01.csproj",
-      "projectName": "Course01",
-      "projectPath": "C:\\Users\\Jony\\source\\repos\\CSharp\\Course\\Course01.csproj",
+      "projectUniqueName": "C:\\Users\\Jony\\source\\repos\\CSharp\\Exercicio02\\Exercicio02.csproj",
+      "projectName": "Exercicio02",
+      "projectPath": "C:\\Users\\Jony\\source\\repos\\CSharp\\Exercicio02\\Exercicio02.csproj",
       "packagesPath": "C:\\Users\\Jony\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jony\\source\\repos\\CSharp\\Course\\obj\\",
+      "outputPath": "C:\\Users\\Jony\\source\\repos\\CSharp\\Exercicio02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
