@@ -8,3 +8,4 @@ C:\Users\Jony\source\repos\CSharp\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio0
 C:\Users\Jony\source\repos\CSharp\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.AssemblyInfo.cs
 C:\Users\Jony\source\repos\CSharp\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.dll
 C:\Users\Jony\source\repos\CSharp\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.pdb
+C:\Users\Jony\source\repos\CSharp\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.csprojAssemblyReference.cache
