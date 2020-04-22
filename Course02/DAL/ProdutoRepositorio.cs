@@ -21,5 +21,22 @@ namespace Course02
         {
             produtos.Remove(produto);
         }
+
+        public static Produto ProcurarPorNome(Produto p)
+        {
+            foreach (Produto produtoCadastrado in produtos)
+            {
+                if (produtoCadastrado.Nome.Equals(p.Nome))
+                {
+                    return produtoCadastrado;
+                }
+            }
+            return null;
+        }
+
+        public static void RemoverProduto(Produto produto)
+        {
+            produtos.Remove(produto);
+        }
     }
 }

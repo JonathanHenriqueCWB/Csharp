@@ -12,7 +12,7 @@ namespace Course02
         
         public override string ToString()
         {
-            return $"\tNome do produto: {Nome}, Preço do produto: {Preco}, Quantidade do produto atualmente em estoque: {Quantidade}.";
+            return $"\tNome do produto: {Nome}, Preço do produto: {Preco}, Quantidade do produto {Quantidade} Valor em estoque: {Quantidade * Preco}.";
         }
     }
 }

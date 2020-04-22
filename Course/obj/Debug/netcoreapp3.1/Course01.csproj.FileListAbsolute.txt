@@ -1,10 +1,10 @@
-C:\Users\Jony\source\repos\CSharp\Course\obj\Debug\netcoreapp3.1\Course01.AssemblyInfoInputs.cache
-C:\Users\Jony\source\repos\CSharp\Course\obj\Debug\netcoreapp3.1\Course01.AssemblyInfo.cs
 C:\Users\Jony\source\repos\CSharp\Course\bin\Debug\netcoreapp3.1\Course01.exe
 C:\Users\Jony\source\repos\CSharp\Course\bin\Debug\netcoreapp3.1\Course01.deps.json
 C:\Users\Jony\source\repos\CSharp\Course\bin\Debug\netcoreapp3.1\Course01.runtimeconfig.json
 C:\Users\Jony\source\repos\CSharp\Course\bin\Debug\netcoreapp3.1\Course01.runtimeconfig.dev.json
 C:\Users\Jony\source\repos\CSharp\Course\bin\Debug\netcoreapp3.1\Course01.dll
 C:\Users\Jony\source\repos\CSharp\Course\bin\Debug\netcoreapp3.1\Course01.pdb
+C:\Users\Jony\source\repos\CSharp\Course\obj\Debug\netcoreapp3.1\Course01.AssemblyInfoInputs.cache
+C:\Users\Jony\source\repos\CSharp\Course\obj\Debug\netcoreapp3.1\Course01.AssemblyInfo.cs
 C:\Users\Jony\source\repos\CSharp\Course\obj\Debug\netcoreapp3.1\Course01.dll
 C:\Users\Jony\source\repos\CSharp\Course\obj\Debug\netcoreapp3.1\Course01.pdb
